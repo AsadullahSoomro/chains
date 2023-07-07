@@ -1,0 +1,17 @@
+{
+  "name": "CVC-Testnet",
+  "chain": "USC",
+  "rpc": ["https://rpc-kura.cross.technology"],
+  "faucets": [],
+  "nativeCurrency": {
+     "name": "XCR",
+    "symbol": "XCR",
+    "decimals": 18
+  },
+  "infoURL": "https://cross.technology/news20230621.html",
+  "shortName": "cvc",
+  "chainId": 5556,
+  "networkId": 5556
+}
+
+
