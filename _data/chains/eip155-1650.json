@@ -2,7 +2,7 @@
   "name": "IIC Blockchain Testnet",
   "chain": "IIC",
   "rpc": [
-    "https://rpc.iic-blockchain.com"
+    "https://iic-blockchain.com"
   ],
   "faucets": [],
   "nativeCurrency": {
