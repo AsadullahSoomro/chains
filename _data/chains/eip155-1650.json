@@ -1,10 +1,6 @@
 {
   "name": "IIC Blockchain Testnet",
   "chain": "IIC",
-  "rpc": [
-    "https://rpc.iic-blockchain.com"
-  ],
-  "faucets": [],
   "nativeCurrency": {
     "name": "Saya Coin",
     "symbol": "SAYA",
@@ -17,7 +13,7 @@
   "explorers": [
     {
       "name": "IIC Explorer",
-      "url": "https://scan.iic-blockchain.com/",
+      "url": "https://scan.iic-blockchain.com",
       "standard": "EIP3091"
     }
   ]
