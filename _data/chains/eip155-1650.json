@@ -4,7 +4,6 @@
   "rpc": [
     "https://rpc.iic-blockchain.com"
   ],
-  "features": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Saya Coin",
@@ -14,5 +13,12 @@
   "infoURL": "https://iic-blockchain.com",
   "shortName": "iic-testnet",
   "chainId": 1650,
-  "networkId": 1650
+  "networkId": 1650,
+  "explorers": [
+    {
+      "name": "IIC Explorer",
+      "url": "https://scan.iic-blockchain.com/",
+      "standard": "EIP3091"
+    }
+  ]
 }
