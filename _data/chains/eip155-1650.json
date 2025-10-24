@@ -1,27 +1,25 @@
 {
-   "name":"IIC Blockchain Testnet",
-   "chain":"IIC",
-   "rpc":[
-      "https://rpc.iic-blockchain.com"
-   ],
-   "faucets":[
-      
-   ],
-   "nativeCurrency":{
-      "name":"Saya",
-      "symbol":"SAYA",
-      "decimals":18
-   },
-   "infoURL":"https://metavtz.com/",
-   "shortName":"iic",
-   "status":"active",
-   "chainId":1650,
-   "networkId":1650,
-   "explorers":[
-      {
-         "name":"IIC Explorer",
-         "url":"https://scan.iic-blockchain.com",
-         "standard":"EIP3091"
-      }
-   ]
+  "name": "IIC Blockchain Testnet",
+  "chainId": 1650,
+  "shortName": "iic-testnet",
+  "chain": "IIC",
+  "networkId": 1650,
+  "nativeCurrency": {
+    "name": "Saya Coin",
+    "symbol": "SAYA",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.iic-blockchain.com"
+  ],
+  "faucets": [],
+  "infoURL": "https://metavtz.com/",
+  "status": "active",
+  "explorers": [
+    {
+      "name": "IIC Explorer",
+      "url": "https://scan.iic-blockchain.com",
+      "standard": "EIP3091"
+    }
+  ]
 }
