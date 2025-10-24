@@ -12,6 +12,7 @@
   "shortName": "iic-testnet",
   "chainId": 1650,
   "networkId": 1650,
+  "status": "active",
   "explorers": [
     {
       "name": "IIC Explorer",
