@@ -4,6 +4,7 @@
   "shortName": "iic",
   "chain": "IIC",
   "networkId": 1650,
+  "icon": "https://raw.githubusercontent.com/waqar5876/iic-assets/main/iic.png",
   "nativeCurrency": {
     "name": "Saya Coin",
     "symbol": "SAYA",
