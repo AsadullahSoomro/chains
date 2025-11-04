@@ -10,9 +10,7 @@
     "symbol": "SAYA",
     "decimals": 18
   },
-  "rpc": [
-    "https://rpc.iic-blockchain.com"
-  ],
+  "rpc": ["https://rpc.iic-blockchain.com"],
   "faucets": [],
   "infoURL": "https://metavtz.com",
   "status": "active",
