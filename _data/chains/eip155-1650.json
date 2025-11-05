@@ -4,15 +4,13 @@
   "shortName": "iic",
   "chain": "IIC",
   "networkId": 1650,
-  "icon": "https://raw.githubusercontent.com/waqar5876/iic-assets/main/iic.png",
+  "icon": "iic",
   "nativeCurrency": {
     "name": "Saya Coin",
     "symbol": "SAYA",
     "decimals": 18
   },
-  "rpc": [
-    "https://rpc.iic-blockchain.com"
-  ],
+  "rpc": ["https://rpc.iic-blockchain.com"],
   "faucets": [],
   "infoURL": "https://metavtz.com",
   "status": "active",
