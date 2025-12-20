@@ -8449,9 +8449,9 @@
   "faucets": [],
   "infoURL": "http://thepivotal.xyz/"
 }, {
-  "name": "IIC Blockchain Testnet",
+  "name": "IIC Blockchain",
   "chainId": 1650,
-  "shortName": "iic-testnet",
+  "shortName": "iic",
   "networkId": 1650,
   "nativeCurrency": {
     "name": "Saya Coin",

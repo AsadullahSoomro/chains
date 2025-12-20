@@ -13874,9 +13874,9 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "IIC Blockchain Testnet",
+  "name": "IIC Blockchain",
   "chainId": 1650,
-  "shortName": "iic-testnet",
+  "shortName": "iic",
   "chain": "IIC",
   "networkId": 1650,
   "nativeCurrency": {
